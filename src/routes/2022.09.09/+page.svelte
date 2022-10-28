@@ -18,21 +18,23 @@
 	let flashdisk = {
 		merk: 'sandisk',
 		ukuran: '16 GB',
-		warma: 'merah dan hitam'
+		warna: 'merah dan hitam'
 	};
 
 	//tipe data array
 	const warna = ['merah', 'biru', 'putih', 'ungu'];
+	// di array ada index dimulai dari angka 0,1,2,3, dst
 </script>
 
 <p>Angka : {angka}</p>
 <p>Angka : {desimal}</p>
 <p>Huruf :{huruf}</p>
-<p>Pembenaran:{pembenaran}</p>
+<p>Pembenaran:{pembenaran ? 'benar' : 'Salah If Condsi'}</p>
 
 <p>{lainnya}</p>
 
 <p>{flashdisk.ukuran}</p>
-<p>{flashdisk.warma}</p>
+<p>{flashdisk.warna}</p>
 
+<p>{warna[3]}</p>
 <p>{warna}</p>
