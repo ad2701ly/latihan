@@ -6,6 +6,7 @@
 	<li><a href="/2022.10.28"> 28 Oktober 2022 - Pengenalan Logika</a></li>
 	<li><a href="/2022.11.04"> 04 November 2022 - Pengenalan Logika II</a></li>
 	<li><a href="/2022.11.11"> 11 November 2022 - Latihan Logika </a></li>
+	<li><a href="/2022.11.18"> 18 November 2022 - Latihan Logika </a></li>
 </ul>
 
 <style>

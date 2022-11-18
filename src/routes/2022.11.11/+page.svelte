@@ -1,5 +1,5 @@
 <script lang="ts">
-	let angka1 = 2,
+	let angka1 = 0,
 		angka2 = 0;
 </script>
 
